@@ -4,21 +4,22 @@
 }
 
 body{
-    background-color: rgb(123, 190, 203); */
+    background-color: rgb(123, 190, 203);
     min-height: 100%;
-    font-size:15px;
+    font-size: 15px;
 }
 
 section{
     text-align: center;
 }
 .card-header{
-    background-color: rgb(107, 196, 221);
+    background-color: rgb(243, 245, 188);
 }
 
 h3{
+    
     font-weight: bold;
 }
 span{
-    font-size: 10px;
+    font-size: 20px;
 }
