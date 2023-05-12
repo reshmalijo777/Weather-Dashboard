@@ -5,8 +5,7 @@ challenge-6
 
 This is a Weather dashboard to show the current and future weather forcast that will run in the browser and feature dynamically updated HTML and CSS. It will use the 5 Day Weather Forecast from (https://openweathermap.org/forecast5) to retrieve weather data for cities.
 
-<img src = "{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}">
-
+![image]({[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)})
 
 ##Usage
 
